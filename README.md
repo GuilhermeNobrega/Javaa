@@ -44,9 +44,10 @@ Se aparecer a versão do Java, significa que está funcionando! 🎉
 ## 💻 Compilar e executar online
 Caso não queira instalar o Java localmente, você pode usar compiladores online:  
 
-👉 [JDoodle - Online IDE](https://www.jdoodle.com/code-online-compiler-ide)  
+👉 [JDoodle - Online IDE](https://www.jdoodle.com/code-online-compiler-ide)<br>
+👉 [programiz - Online IDE](https://www.programiz.com/java-programming/online-compiler/)
 
-Essa plataforma permite rodar código em diversas linguagens, incluindo **Java**.
+Essa(s) plataforma(s) permite(m) a execução de códigos em diversas linguagens, incluindo **Java**.
 
 ---
 
